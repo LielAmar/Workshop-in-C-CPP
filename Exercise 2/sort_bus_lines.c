@@ -23,7 +23,7 @@ void quick_sort (BusLine *start, BusLine *end)
   if (start < end)
   {
     BusLine *mid = partition (start, end);
-    quick_sort (start, mid - 1);
+    quick_sort (start, mid);
     quick_sort (mid + 1, end);
   }
 }
