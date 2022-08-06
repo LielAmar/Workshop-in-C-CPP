@@ -7,7 +7,7 @@
     <br>
     This is a course that teaches you the basic and advanced concepts of Memory Management, OOP and Generic Programming, using <b>C & C++</b> as the main languages.
     <br>
-    It lasted <b>15 weeks</b>, in which, we've submitted a total of 6 exercises in various fields and topics.
+    It lasted <b>15 weeks</b>, in which, we've submitted a total of 7 exercises in various fields and topics.
     <br>
     <br>
     More information can be found <a href="https://shnaton.huji.ac.il/index.php/NewSyl/67315/2/2022/">Here</a>.
